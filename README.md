@@ -15,7 +15,7 @@
 - html
 - css
 - tailwind css
-- 
+- postgreSQL(intermediate)
 
 
 
